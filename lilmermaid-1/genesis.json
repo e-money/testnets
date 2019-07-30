@@ -1,0 +1,141 @@
+{
+  "genesis_time": "2019-07-30T12:23:31.192051Z",
+  "chain_id": "emoney-EBx1CL",
+  "consensus_params": {
+    "block": {
+      "max_bytes": "22020096",
+      "max_gas": "-1",
+      "time_iota_ms": "1000"
+    },
+    "evidence": {
+      "max_age": "100000"
+    },
+    "validator": {
+      "pub_key_types": [
+        "ed25519"
+      ]
+    }
+  },
+  "app_hash": "",
+  "app_state": {
+    "accounts": [
+      {
+        "address": "emoney16l4j2eufk66efg209fwvzwemgpx2kvxl0va8kv",
+        "coins": [
+          {
+            "denom": "ungm",
+            "amount": "500000000"
+          }
+        ],
+        "sequence_number": "0",
+        "account_number": "0",
+        "original_vesting": [],
+        "delegated_free": [],
+        "delegated_vesting": [],
+        "start_time": "0",
+        "end_time": "0",
+        "module_name": "",
+        "module_permissions": null
+      },
+      {
+        "address": "emoney127teu2esvmqhhcn5hnh29eq7ndh7f3etnsww7v",
+        "coins": [
+          {
+            "denom": "ungm",
+            "amount": "100000000000000000"
+          }
+        ],
+        "sequence_number": "0",
+        "account_number": "0",
+        "original_vesting": [],
+        "delegated_free": [],
+        "delegated_vesting": [],
+        "start_time": "0",
+        "end_time": "0",
+        "module_name": "",
+        "module_permissions": null
+      }
+    ],
+    "genutil": {
+      "gentxs": [
+        {
+          "type": "cosmos-sdk/StdTx",
+          "value": {
+            "msg": [
+              {
+                "type": "cosmos-sdk/MsgCreateValidator",
+                "value": {
+                  "description": {
+                    "moniker": "Validator-0",
+                    "identity": "",
+                    "website": "",
+                    "details": ""
+                  },
+                  "commission": {
+                    "rate": "0.000000000000000000",
+                    "max_rate": "0.000000000000000000",
+                    "max_change_rate": "0.000000000000000000"
+                  },
+                  "min_self_delegation": "1",
+                  "delegator_address": "emoney16l4j2eufk66efg209fwvzwemgpx2kvxl0va8kv",
+                  "validator_address": "emoneyvaloper16l4j2eufk66efg209fwvzwemgpx2kvxlgvmngp",
+                  "pubkey": "emoneyvalconspub1zcjduepqwp5my2tcl70lqaxqd3afr4qe0fvll0xnchxa7fy2mfmd8n8990jssugaxw",
+                  "value": {
+                    "denom": "ungm",
+                    "amount": "1000000"
+                  }
+                }
+              }
+            ],
+            "fee": {
+              "amount": [],
+              "gas": "0"
+            },
+            "signatures": [
+              {
+                "pub_key": {
+                  "type": "tendermint/PubKeySecp256k1",
+                  "value": "Ap14iQUDBOIj02BcGS5G55GmXh/2Waw4bxhNKPI2eLis"
+                },
+                "signature": "VeX/f3zWtK//kuZmqSjOhhW1g7G+pQQrni5NQojHDHAAfIaVb5B+jWlApZmqrAyZ7JaGXmQTNW/2Y/gmeDxYrg=="
+              }
+            ],
+            "memo": " - "
+          }
+        }
+      ]
+    },
+    "auth": {
+      "params": {
+        "max_memo_characters": "256",
+        "tx_sig_limit": "7",
+        "tx_size_cost_per_byte": "10",
+        "sig_verify_cost_ed25519": "590",
+        "sig_verify_cost_secp256k1": "1000"
+      }
+    },
+    "bank": {
+      "send_enabled": true
+    },
+    "supply": {
+      "supply": {
+        "total": []
+      }
+    },
+    "staking": {
+      "params": {
+        "unbonding_time": "259200000000000",
+        "max_validators": 100,
+        "max_entries": 7,
+        "bond_denom": "ungm"
+      },
+      "last_total_power": "0",
+      "last_validator_powers": null,
+      "validators": null,
+      "delegations": null,
+      "unbonding_delegations": null,
+      "redelegations": null,
+      "exported": false
+    }
+  }
+}
