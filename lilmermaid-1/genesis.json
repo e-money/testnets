@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2019-07-30T12:23:31.192051Z",
+  "genesis_time": "2019-07-30T13:50:40.216804Z",
   "chain_id": "lilmermaid-1",
   "consensus_params": {
     "block": {
@@ -18,9 +18,41 @@
   },
   "app_hash": "",
   "app_state": {
+    "auth": {
+      "params": {
+        "max_memo_characters": "256",
+        "tx_sig_limit": "7",
+        "tx_size_cost_per_byte": "10",
+        "sig_verify_cost_ed25519": "590",
+        "sig_verify_cost_secp256k1": "1000"
+      }
+    },
+    "bank": {
+      "send_enabled": true
+    },
+    "supply": {
+      "supply": {
+        "total": []
+      }
+    },
+    "staking": {
+      "params": {
+        "unbonding_time": "259200000000000",
+        "max_validators": 100,
+        "max_entries": 7,
+        "bond_denom": "ungm"
+      },
+      "last_total_power": "0",
+      "last_validator_powers": null,
+      "validators": null,
+      "delegations": null,
+      "unbonding_delegations": null,
+      "redelegations": null,
+      "exported": false
+    },
     "accounts": [
       {
-        "address": "emoney16l4j2eufk66efg209fwvzwemgpx2kvxl0va8kv",
+        "address": "emoney1rm3xtf04d83ez0g62t7fs0tgsmhw8z6x8q4e4k",
         "coins": [
           {
             "denom": "ungm",
@@ -77,9 +109,9 @@
                     "max_change_rate": "0.000000000000000000"
                   },
                   "min_self_delegation": "1",
-                  "delegator_address": "emoney16l4j2eufk66efg209fwvzwemgpx2kvxl0va8kv",
-                  "validator_address": "emoneyvaloper16l4j2eufk66efg209fwvzwemgpx2kvxlgvmngp",
-                  "pubkey": "emoneyvalconspub1zcjduepqwp5my2tcl70lqaxqd3afr4qe0fvll0xnchxa7fy2mfmd8n8990jssugaxw",
+                  "delegator_address": "emoney1rm3xtf04d83ez0g62t7fs0tgsmhw8z6x8q4e4k",
+                  "validator_address": "emoneyvaloper1rm3xtf04d83ez0g62t7fs0tgsmhw8z6xqqndtm",
+                  "pubkey": "emoneyvalconspub1zcjduepq3g5ru39tssne7ss3652tvpnrv5hu7zpwarh0k6r8madmrec40slsysl8c9",
                   "value": {
                     "denom": "ungm",
                     "amount": "1000000"
@@ -95,47 +127,15 @@
               {
                 "pub_key": {
                   "type": "tendermint/PubKeySecp256k1",
-                  "value": "Ap14iQUDBOIj02BcGS5G55GmXh/2Waw4bxhNKPI2eLis"
+                  "value": "AsAg99CDePcgATESMWTXlMbHbSrJPFM36uH1Sz1kj2WI"
                 },
-                "signature": "VeX/f3zWtK//kuZmqSjOhhW1g7G+pQQrni5NQojHDHAAfIaVb5B+jWlApZmqrAyZ7JaGXmQTNW/2Y/gmeDxYrg=="
+                "signature": "5zUvBxHq4ACz/nNMvMuFL6gRA6hrHldR0havrudndJYKJq2CCf3uk/B19qOSDaI9COuKabqTB505pjrTd7zaRA=="
               }
             ],
             "memo": " - "
           }
         }
       ]
-    },
-    "auth": {
-      "params": {
-        "max_memo_characters": "256",
-        "tx_sig_limit": "7",
-        "tx_size_cost_per_byte": "10",
-        "sig_verify_cost_ed25519": "590",
-        "sig_verify_cost_secp256k1": "1000"
-      }
-    },
-    "bank": {
-      "send_enabled": true
-    },
-    "supply": {
-      "supply": {
-        "total": []
-      }
-    },
-    "staking": {
-      "params": {
-        "unbonding_time": "259200000000000",
-        "max_validators": 100,
-        "max_entries": 7,
-        "bond_denom": "ungm"
-      },
-      "last_total_power": "0",
-      "last_validator_powers": null,
-      "validators": null,
-      "delegations": null,
-      "unbonding_delegations": null,
-      "redelegations": null,
-      "exported": false
     }
   }
 }
