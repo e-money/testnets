@@ -1,6 +1,6 @@
 {
   "genesis_time": "2019-07-30T12:23:31.192051Z",
-  "chain_id": "emoney-EBx1CL",
+  "chain_id": "lilmermaid-1",
   "consensus_params": {
     "block": {
       "max_bytes": "22020096",
