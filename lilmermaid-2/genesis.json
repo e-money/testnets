@@ -59,15 +59,15 @@
         "coins": [
           {
             "denom": "x0jpy",
-            "amount": "3500000"
+            "amount": "3500000000000"
           },
           {
             "denom": "x2chf",
-            "amount": "10000"
+            "amount": "10000000000"
           },
           {
             "denom": "x2eur",
-            "amount": "25000"
+            "amount": "10000000000"
           },
           {
             "denom": "x3ngm",
