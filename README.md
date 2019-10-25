@@ -27,3 +27,23 @@ Mnemonic: raise immense buffalo job profit wheel wonder maximum click can wrong 
 ```
 
 We suggest validators transfer "1000000000x3ngm,1000000x2eur,5000000x2chf" from the account.
+
+## Participants
+
+Please submit a pull request to get added to the list of participants:
+
+| Validator  | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 |
+|------------|--------------|--------------|--------------|
+| 01node  | - | + |  |
+| ATEAM  | - | + |  |
+| B-Harvest  | - | + |  |
+| Bit Cat  | - | + |  |
+| ChainLayer  | - | + |  |
+| Cosmostation  | - | + |  |
+| Easy2Stake  | - | + |  |
+| Figment Networks  | - | + |  |
+| Forbole  | - | + |  |
+| novy  | - | + |  |
+| Simply VC  | - | + |  |
+| UbikCapital  | - | + |  |
+| validator.network | + | + |  |
