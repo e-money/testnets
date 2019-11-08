@@ -1,5 +1,5 @@
 {
-  "genesis_time": "2019-11-08T11:18:00.898084Z",
+  "genesis_time": "2019-11-08T12:00:00.000000Z",
   "chain_id": "lilmermaid-4",
   "consensus_params": {
     "block": {
@@ -57,59 +57,13 @@
         "end_time": "0",
         "module_name": "",
         "module_permissions": null
-      },
-      {
-        "address": "emoney127teu2esvmqhhcn5hnh29eq7ndh7f3etnsww7v",
-        "coins": [
-          {
-            "denom": "x0jpy",
-            "amount": "3500000000000"
-          },
-          {
-            "denom": "x2chf",
-            "amount": "10000000000"
-          },
-          {
-            "denom": "x2eur",
-            "amount": "10000000000"
-          },
-          {
-            "denom": "x3ngm",
-            "amount": "99000000000"
-          }
-        ],
-        "sequence_number": "0",
-        "account_number": "0",
-        "original_vesting": [],
-        "delegated_free": [],
-        "delegated_vesting": [],
-        "start_time": "0",
-        "end_time": "0",
-        "module_name": "",
-        "module_permissions": null
       }
     ],
     "inflation": {
       "assets": {
-        "last_applied": "2019-11-08T11:18:00.3985Z",
+        "last_applied": "2019-11-08T12:00:00.000000Z",
         "last_applied_height": "0",
-        "assets": [
-          {
-            "denom": "x0jpy",
-            "inflation": "0.050000000000000000",
-            "accum": "0.000000000000000000"
-          },
-          {
-            "denom": "x2chf",
-            "inflation": "0.100000000000000000",
-            "accum": "0.000000000000000000"
-          },
-          {
-            "denom": "x2eur",
-            "inflation": "0.010000000000000000",
-            "accum": "0.000000000000000000"
-          }
-        ]
+        "assets": []
       }
     },
     "distribution": {
