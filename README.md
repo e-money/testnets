@@ -9,7 +9,8 @@ Explorer: https://e-money.network *
 
 ## Persistent Peers
 ```
-6ffb1e450a9efed17aead62a4dd9e453e2ee5c4d@3.123.252.230:26656
+6ffb1e450a9efed17aead62a4dd9e453e2ee5c4d@3.123.252.230:26656  
+37460d01498ef6f5c5cecffcc7e0ce3a32c86e0f@3.121.216.202:26656
 ```
 
 ## Faucet
