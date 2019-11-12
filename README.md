@@ -7,10 +7,9 @@ Explorer: https://e-money.network *
 
 \* The block explorer does not accurately display multiple denominations yet.
 
-## Peers
+## Persistent Peers
 ```
-e7398396afe6f35f6f3393b09691abb49fe4676b@54.93.55.133:26656
-c9aa25167e9d52701cb6646d3192624c431ace7a@13.57.37.239:26656 
+6ffb1e450a9efed17aead62a4dd9e453e2ee5c4d@3.123.252.230:26656
 ```
 
 ## Faucet
