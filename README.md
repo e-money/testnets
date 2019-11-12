@@ -1,8 +1,8 @@
 ## Latest Test Network
 
-Chain ID: lilmermaid-3   
-Genesis:  https://raw.githubusercontent.com/e-money/testnets/master/lilmermaid-3/genesis.json  
-Software: [v0.3.1](https://github.com/e-money/em-ledger/releases/tag/v0.3.1)  
+Chain ID: lilmermaid-4   
+Genesis:  https://raw.githubusercontent.com/e-money/testnets/master/lilmermaid-4/genesis.json  
+Software: [v0.4.0](https://github.com/e-money/em-ledger/releases/tag/v0.4.0)  
 Explorer: https://e-money.network *
 
 \* The block explorer does not accurately display multiple denominations yet.
@@ -32,7 +32,7 @@ We suggest validators transfer "1000000000x3ngm,1000000x2eur,5000000x2chf" from 
 
 Please submit a pull request to get added to the list of participants:
 
-| Validator  | lilmermaid--1 | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 |
+| Validator  | lilmermaid-1 | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 |
 |------------|---------------|--------------|--------------|--------------|
 | 01node | - | - | + |  |
 | ATEAM | - | - | + |  |
@@ -46,4 +46,4 @@ Please submit a pull request to get added to the list of participants:
 | novy | - | - | + |  |
 | Simply VC | - | - | + |  |
 | UbikCapital | - | - | + |  |
-| validator.network | + | + | + |  |
+| validator.network | + | + | + | + |
