@@ -130,10 +130,10 @@
                   "type": "tendermint/PubKeySecp256k1",
                   "value": "AzQjiDchrNLB3RpH3CwTYvuRMtwdpyZu3WlPMvGU0OVo"
                 },
-                "signature": "y3nibIcZw8WTzr3bPfdMNkPWKR+59pLFs0YghzWgGoBtr7/TjE/KwjDHyOsOfETU2TB5r1JJjkiHcLw3SOkMsw=="
+                "signature": "3RCcqhzv+b5B0XaPcLAfMC8FqPY4RekIhpgcGE76mRZ9cDwG1baNLi9ruVreDsVrhA+xUwtf6WAZHt2gHstYRg=="
               }
             ],
-            "memo": "c41edc8b5d3bee1bab6c3f9ad433eb07f81ec065@3.123.252.230:26656"
+            "memo": "6ffb1e450a9efed17aead62a4dd9e453e2ee5c4d@3.123.252.230:26656"
           }
         }
       ]
@@ -169,10 +169,10 @@
       "params": {
         "max_evidence_age": "120000000000",
         "signed_blocks_window_duration": "3600000000000",
-        "min_signed_per_window": "0.100000000000000000",
+        "min_signed_per_window": "0.1",
         "downtime_jail_duration": "3600000000000",
-        "slash_fraction_double_sign": "0.050000000000000000",
-        "slash_fraction_downtime": "0.010000000000000000"
+        "slash_fraction_double_sign": "0.05",
+        "slash_fraction_downtime": "0.001"
       },
       "signing_infos": {},
       "missed_blocks": {}
