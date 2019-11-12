@@ -42,6 +42,7 @@ Please submit a pull request to get added to the list of participants:
 | Easy2Stake | - | - | + |  |
 | Figment Networks | - | - | + |  |
 | Forbole | - | - | + |  |
+| Northern Stake | - | - | - | + |
 | novy | - | - | + |  |
 | Simply VC | - | - | + |  |
 | Stake5 | - | - | - | + |
