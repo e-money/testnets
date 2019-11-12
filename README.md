@@ -33,10 +33,10 @@ Please submit a pull request to get added to the list of participants:
 
 | Validator  | lilmermaid-1 | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 |
 |------------|---------------|--------------|--------------|--------------|
-| 01node | - | - | + |  |
+| 01node | - | - | + | + |
 | ATEAM | - | - | + |  |
 | B-Harvest | - | - | + |  |
-| Bit Cat | - | - | + |  |
+| Bit Cat | - | - | + | + |
 | ChainLayer | - | - | + | + |
 | Cosmostation | - | - | + |  |
 | Easy2Stake | - | - | + |  |
@@ -44,5 +44,7 @@ Please submit a pull request to get added to the list of participants:
 | Forbole | - | - | + |  |
 | novy | - | - | + |  |
 | Simply VC | - | - | + |  |
+| Stake5 | - | - | - | + |
 | UbikCapital | - | - | + |  |
 | validator.network | + | + | + | + |
+| vitwal | - | - | - | + |
