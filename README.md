@@ -37,7 +37,7 @@ Please submit a pull request to get added to the list of participants:
 | ATEAM | - | - | + |  |
 | B-Harvest | - | - | + |  |
 | Bit Cat | - | - | + |  |
-| ChainLayer | - | - | + |  |
+| ChainLayer | - | - | + | + |
 | Cosmostation | - | - | + |  |
 | Easy2Stake | - | - | + |  |
 | Figment Networks | - | - | + |  |
