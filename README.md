@@ -36,7 +36,7 @@ Please contact @mdyring in the validator hangout to get added to the list of par
 | Validator  | lilmermaid-1 | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 |
 |------------|---------------|--------------|--------------|--------------|
 | 01node | - | - | + | + |
-| ATEAM | - | - | + |  |
+| ATEAM | - | - | + | + |
 | B-Harvest | - | - | + |  |
 | Bit Cat | - | - | + | + |
 | ChainLayer | - | - | + | + |
