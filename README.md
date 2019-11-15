@@ -44,10 +44,11 @@ Please contact @mdyring in the validator hangout to get added to the list of par
 | Easy2Stake | - | - | + |  |
 | Figment Networks | - | - | + |  |
 | Forbole | - | - | + |  |
+| Mr. K | - | - | - | + |
 | Northern Stake | - | - | - | + |
 | novy | - | - | + | + |
 | Simply VC | - | - | + |  |
-| Stake5 | - | - | - | + |
+| Stake5 Labs | - | - | - | + |
 | UbikCapital | - | - | + |  |
 | validator.network | + | + | + | + |
 | vitwal | - | - | - | + |
