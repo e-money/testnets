@@ -47,7 +47,7 @@ Please contact @mdyring in the validator hangout to get added to the list of par
 | Mr. K | - | - | - | + |
 | Northern Stake | - | - | - | + |
 | novy | - | - | + | + |
-| Simply VC | - | - | + |  |
+| Simply VC | - | - | + | + |
 | Stake5 Labs | - | - | - | + |
 | UbikCapital | - | - | + |  |
 | validator.network | + | + | + | + |
