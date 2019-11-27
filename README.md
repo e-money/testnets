@@ -45,8 +45,10 @@ Please contact @mdyring in the validator hangout to get added to the list of par
 | Figment Networks | - | - | + |  |
 | Forbole | - | - | + |  |
 | Mr. K | - | - | - | + |
+| IRISnet-Bianjie | - | - | - | + |
 | Northern Stake | - | - | - | + |
 | novy | - | - | + | + |
+| POS Bakerz | - | - | - | + |
 | Simply VC | - | - | + | + |
 | Stake5 Labs | - | - | - | + |
 | UbikCapital | - | - | + |  |
