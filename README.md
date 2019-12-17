@@ -41,7 +41,7 @@ Please contact @mdyring in the validator hangout to get added to the list of par
 | Bit Cat | - | - | + | + |
 | ChainLayer | - | - | + | + |
 | Cosmostation | - | - | + |  |
-| Easy2Stake | - | - | + |  |
+| Easy2Stake | - | - | + | + |
 | Figment Networks | - | - | + |  |
 | Forbole | - | - | + |  |
 | Mr. K | - | - | - | + |
