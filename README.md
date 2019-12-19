@@ -31,7 +31,7 @@ We suggest validators transfer "1000000000x3ngm,1000000x2eur,5000000x2chf" from 
 
 ## Participants
 
-Please contact @mdyring in the validator hangout to get added to the list of participants.
+Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/HBB5elfpWv8rADBFhhjbtg) to get added to the list of participants.
 
 | Validator  | lilmermaid-1 | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 |
 |------------|---------------|--------------|--------------|--------------|
@@ -54,3 +54,14 @@ Please contact @mdyring in the validator hangout to get added to the list of par
 | UbikCapital | - | - | + |  |
 | validator.network | + | + | + | + |
 | vitwal | - | - | - | + |
+
+## Rewards
+
+Validators who participated in the testnets will be rewarded for their support as follows:
+
+2000 NGM* for each testnet they participated in (lilmermaid-3 and later)  
+5000 NGM* bonus for joining mainnet within 24 hours  
+
+As the mainnet launch will be centralized, rewards can be paid out to validators on request and rewards can used to self-bond.
+
+\* Please note the NGM token is currently not tradeable, but will be sold during the [token sale](https://e-money.com/partner-sale.html) for EUR 0.50. 
