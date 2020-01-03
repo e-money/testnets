@@ -46,11 +46,15 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Forbole | - | - | + |  |
 | Mr. K | - | - | - | + |
 | IRISnet-Bianjie | - | - | - | + |
+| kytzu | - | - | - | + |
+| melea | - | - | - | + |
+| mintonium | - | - | - | + |
 | Northern Stake | - | - | - | + |
 | novy | - | - | + | + |
 | POS Bakerz | - | - | - | + |
 | Simply VC | - | - | + | + |
 | Stake5 Labs | - | - | - | + |
+| syncnode | - | - | - | + |
 | UbikCapital | - | - | + |  |
 | validator.network | + | + | + | + |
 | vitwal | - | - | - | + |
