@@ -57,6 +57,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | B-Harvest | - | - | + |  |
 | Bit Cat | - | - | + | + |
 | ChainLayer | - | - | + | + |
+| Cryptium Labs | - | - | - | + |
 | Cosmostation | - | - | + |  |
 | DCC Capital | - | - | - | + |
 | Easy2Stake | - | - | + | + |
