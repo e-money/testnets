@@ -27,9 +27,10 @@ There is a faucet account available that is entirely self-service, with a few co
 2) Return what you don't need
 3) We'll top up as needed
 
+Use `emcli keys add --recover faucet` to add the faucet account:
 ```
-Address:  emoney127teu2esvmqhhcn5hnh29eq7ndh7f3etnsww7v
 Mnemonic: involve survey split brass forum enemy lend kid crowd gaze boil social boring image slide force sausage enough near excess paddle kingdom slender all
+Address:  emoney127teu2esvmqhhcn5hnh29eq7ndh7f3etnsww7v
 ```
 
 We suggest validators transfer "1000000000x3ngm,1000000x2eur,5000000x2chf" from the account.
