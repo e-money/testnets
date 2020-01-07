@@ -1,8 +1,12 @@
+# e-Money Test Networks
+
+We are launching a series of testnets to conduct testing before mainnet launch. We invite everybody to join!
+
+Help and assistance is available in our [validator hangout group](https://t.me/joinchat/HBB5elfpWv8rADBFhhjbtg).
+
 ## Latest Test Network
 
-We invite everybody to join our testnet. Help and assistance is available in our [validator hangout group](https://t.me/joinchat/HBB5elfpWv8rADBFhhjbtg).
-
-Chain ID: lilmermaid-4   
+Chain ID: lilmermaid-4  
 Genesis:  https://raw.githubusercontent.com/e-money/testnets/master/lilmermaid-4/genesis.json  
 Software: [v0.4.0](https://github.com/e-money/em-ledger/releases/tag/v0.4.0)  
 Explorer: https://e-money.network *  
@@ -10,6 +14,7 @@ Explorer: https://e-money.network *
 \* The block explorer does not accurately display multiple denominations yet.
 
 ## Seed Nodes
+
 ```
 6ffb1e450a9efed17aead62a4dd9e453e2ee5c4d@3.123.252.230:26656  
 ```
@@ -17,6 +22,7 @@ Explorer: https://e-money.network *
 ## Faucet
 
 There is a faucet account available that is entirely self-service, with a few conditions:
+
 1) Only take what you need
 2) Return what you don't need
 3) We'll top up as needed
@@ -27,6 +33,17 @@ Mnemonic: involve survey split brass forum enemy lend kid crowd gaze boil social
 ```
 
 We suggest validators transfer "1000000000x3ngm,1000000x2eur,5000000x2chf" from the account.
+
+## Rewards
+
+Validators who participated in the testnets will be rewarded for their support as follows:
+
+2000 NGM* for each testnet they participated in (lilmermaid-3 and later)  
+5000 NGM* bonus for joining mainnet within 24 hours  
+
+As the mainnet launch will be centralized, rewards can be paid out to validators on request and rewards can used to self-bond.
+
+\* Please note the NGM token is currently not tradeable, but will be sold during the [token sale](https://e-money.com/partner-sale.html) for EUR 0.50. 
 
 ## Participants
 
@@ -57,14 +74,3 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | UbikCapital | - | - | + |  |
 | validator.network | + | + | + | + |
 | vitwal | - | - | - | + |
-
-## Rewards
-
-Validators who participated in the testnets will be rewarded for their support as follows:
-
-2000 NGM* for each testnet they participated in (lilmermaid-3 and later)  
-5000 NGM* bonus for joining mainnet within 24 hours  
-
-As the mainnet launch will be centralized, rewards can be paid out to validators on request and rewards can used to self-bond.
-
-\* Please note the NGM token is currently not tradeable, but will be sold during the [token sale](https://e-money.com/partner-sale.html) for EUR 0.50. 
