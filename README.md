@@ -60,16 +60,18 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Cryptium Labs | - | - | - | + |
 | Cosmostation | - | - | + |  |
 | DCC Capital | - | - | - | + |
+| DokiaCapital | - | - | - | + |
 | Easy2Stake | - | - | + | + |
 | Figment Networks | - | - | + |  |
 | Forbole | - | - | + |  |
-| Mr. K | - | - | - | + |
+| Inotel | - | - | - | + |
 | IRISnet-Bianjie | - | - | - | + |
 | kytzu | - | - | - | + |
 | melea | - | - | - | + |
 | mintonium | - | - | - | + |
 | marssuper | - | - | - | + |
 | Northern Stake | - | - | - | + |
+| Mr. K | - | - | - | + |
 | novy | - | - | + | + |
 | POS Bakerz | - | - | - | + |
 | Simply VC | - | - | + | + |
