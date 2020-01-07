@@ -57,6 +57,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Bit Cat | - | - | + | + |
 | ChainLayer | - | - | + | + |
 | Cosmostation | - | - | + |  |
+| DCC Capital | - | - | - | + |
 | Easy2Stake | - | - | + | + |
 | Figment Networks | - | - | + |  |
 | Forbole | - | - | + |  |
@@ -65,12 +66,14 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | kytzu | - | - | - | + |
 | melea | - | - | - | + |
 | mintonium | - | - | - | + |
+| marssuper | - | - | - | + |
 | Northern Stake | - | - | - | + |
 | novy | - | - | + | + |
 | POS Bakerz | - | - | - | + |
 | Simply VC | - | - | + | + |
 | Stake5 Labs | - | - | - | + |
 | syncnode | - | - | - | + |
-| UbikCapital | - | - | + |  |
+| UbikCapital | - | - | + | + |
 | validator.network | + | + | + | + |
-| vitwal | - | - | - | + |
+| witval | - | - | - | + |
+| WeStaking | - | - | - | + |
