@@ -70,6 +70,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | melea | - | - | - | + |
 | mintonium | - | - | - | + |
 | marssuper | - | - | - | + |
+| Nodeasy.com | - | - | - | + |
 | Northern Stake | - | - | - | + |
 | Mr. K | - | - | - | + |
 | novy | - | - | + | + |
