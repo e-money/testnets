@@ -63,7 +63,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | DokiaCapital | - | - | - | + |
 | Easy2Stake | - | - | + | + |
 | Figment Networks | - | - | + |  |
-| Forbole | - | - | + |  |
+| Forbole | - | - | + | + |
 | Inotel | - | - | - | + |
 | IRISnet-Bianjie | - | - | - | + |
 | kytzu | - | - | - | + |
@@ -75,6 +75,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Mr. K | - | - | - | + |
 | novy | - | - | + | + |
 | POS Bakerz | - | - | - | + |
+| retz80 | - | - | - | + |
 | Simply VC | - | - | + | + |
 | stake.zone | - | - | - | + |
 | Stake5 Labs | - | - | - | + |
