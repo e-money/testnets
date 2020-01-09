@@ -3,11 +3,36 @@
   "app_state": {
     "accounts": [
       {
+        "_comment": "e-Money A/S",
         "account_number": "0",
-        "address": "emoney16j4trwyg8a3pfwqu2ely96tkzl05eh4vvyyfts",
+        "address": "emoney1j7sq6dadld46vruk92r0se0tv0f3uc4pvl4ntd",
         "coins": [
           {
-            "amount": "99000000000000",
+            "amount": "65000000000000",
+            "denom": "ungm"
+          }
+        ],
+        "delegated_free": [],
+        "delegated_vesting": [],
+        "end_time": "1672574400",
+        "module_name": "",
+        "module_permissions": [],
+        "original_vesting": [
+          {
+            "amount": "50000000000000",
+            "denom": "ungm"
+          }
+        ],
+        "sequence_number": "0",
+        "start_time": "1577880000"
+      },
+      {
+        "_comment": "Community Sale",
+        "account_number": "0",
+        "address": "emoney1mxj9pml6lc6tcxsvph39ra4us8nafglrfa0c3r",
+        "coins": [
+          {
+            "amount": "25000000000000",
             "denom": "ungm"
           }
         ],
@@ -21,11 +46,32 @@
         "start_time": "0"
       },
       {
+        "_comment": "Ecosystem Fund",
+        "account_number": "0",
+        "address": "emoney1gzp549tt97nrmyc0c7035c944m0nuh26fjxge4",
+        "coins": [
+          {
+            "_comment": "10M NGM minus testnet rewards",
+            "amount": "9989000000000",
+            "denom": "ungm"
+          }
+        ],
+        "delegated_free": [],
+        "delegated_vesting": [],
+        "end_time": "0",
+        "module_name": "",
+        "module_permissions": null,
+        "original_vesting": [],
+        "sequence_number": "0",
+        "start_time": "0"
+      },
+      {
+        "_comment": "validator.network",
         "account_number": "0",
         "address": "emoney1fj76mrfpcwm7yqlmfqkqlx9kgvjns97c5f0403",
         "coins": [
           {
-            "amount": "1000000000000",
+            "amount": "11000000000",
             "denom": "ungm"
           }
         ],
@@ -101,7 +147,7 @@
                   "pubkey": "emoneyvalconspub1zcjduepqr7pgxa2nufp3lz4rclqf776nhky8va0nxk42atn0c49ytrxqv6mqsxpf65",
                   "validator_address": "emoneyvaloper1fj76mrfpcwm7yqlmfqkqlx9kgvjns97cnffp3u",
                   "value": {
-                    "amount": "500000000000",
+                    "amount": "10000000000",
                     "denom": "ungm"
                   }
                 }
@@ -113,7 +159,7 @@
                   "type": "tendermint/PubKeySecp256k1",
                   "value": "AzQjiDchrNLB3RpH3CwTYvuRMtwdpyZu3WlPMvGU0OVo"
                 },
-                "signature": "G1/7JfBYc13sFscAs/DTG4zf+bI9AWdF7r50kBt/yicOR4avR6hGGZURt9TPMlXNsCgKHtiANJCdiRC8eMFtNw=="
+                "signature": "bELdvqUkPB6JJTtHA2YgjrdpS7LlDCrIH/RUusoS8AMJ6ynWfpG05ciQeraD/tMC1AGolO3PijoRjx24futLbA=="
               }
             ]
           }
@@ -152,7 +198,7 @@
       "last_total_power": "0",
       "last_validator_powers": null,
       "params": {
-        "bond_denom": "x3ngm",
+        "bond_denom": "ungm",
         "max_entries": 7,
         "max_validators": 100,
         "unbonding_time": "1814400000000000"
