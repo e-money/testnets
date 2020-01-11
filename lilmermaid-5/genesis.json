@@ -95,7 +95,17 @@
       }
     },
     "authority": {
-      "key": "emoney16j4trwyg8a3pfwqu2ely96tkzl05eh4vvyyfts"
+      "key": "emoney16j4trwyg8a3pfwqu2ely96tkzl05eh4vvyyfts",
+      "restricted_denoms": [
+        {
+          "Denom": "ungm",
+          "Allowed": [
+            "emoney1j7sq6dadld46vruk92r0se0tv0f3uc4pvl4ntd",
+            "emoney1mxj9pml6lc6tcxsvph39ra4us8nafglrfa0c3r",
+            "emoney1gzp549tt97nrmyc0c7035c944m0nuh26fjxge4"
+          ]
+        }
+      ]
     },
     "bank": {
       "send_enabled": true
