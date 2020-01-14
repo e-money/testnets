@@ -210,7 +210,7 @@
       "params": {
         "bond_denom": "ungm",
         "max_entries": 7,
-        "max_validators": 100,
+        "max_validators": 30,
         "unbonding_time": "1814400000000000"
       },
       "redelegations": null,
