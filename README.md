@@ -27,13 +27,16 @@ There is a faucet account available that is entirely self-service, with a few co
 2) Return what you don't need
 3) We'll top up as needed
 
-Use `emcli keys add --recover faucet` to add the faucet account:
+Use `emcli keys add --recover faucet` to add the faucet account using the below mnemonic:
 ```
 Mnemonic: involve survey split brass forum enemy lend kid crowd gaze boil social boring image slide force sausage enough near excess paddle kingdom slender all
 Address:  emoney127teu2esvmqhhcn5hnh29eq7ndh7f3etnsww7v
 ```
 
-We suggest validators transfer "1000000000000ungm,50000000000eeur,50000000000echf,50000000000eusd" from the account.
+We suggest using the following command to transfer from the faucet:
+```
+emcli tx send faucet <your-validator> "500000000000eeur,500000000000echf,500000000000eusd,5000000000000ejpy" --gas-prices "0.8ungm"
+```
 
 ## Rewards
 
