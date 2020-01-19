@@ -79,6 +79,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Simply VC | - | - | + | + |  |
 | stake.zone | - | - | - | + |  |
 | Stake5 Labs | - | - | - | + |  |
+| stakewolf | - | - | - | + |  |
 | syncnode | - | - | - | + |  |
 | UbikCapital | - | - | + | + |  |
 | validator.network | + | + | + | + | + |
