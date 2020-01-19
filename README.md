@@ -29,8 +29,8 @@ There is a faucet account available that is entirely self-service, with a few co
 
 Use `emcli keys add --recover faucet` to add the faucet account using the below mnemonic:
 ```
-Mnemonic: involve survey split brass forum enemy lend kid crowd gaze boil social boring image slide force sausage enough near excess paddle kingdom slender all
-Address:  emoney127teu2esvmqhhcn5hnh29eq7ndh7f3etnsww7v
+Mnemonic: satisfy select word swamp solar silver flavor sting screen novel deny win tape cement hole embark pact purpose goat latin gesture orange swift maple
+Address:  emoney1j7sq6dadld46vruk92r0se0tv0f3uc4pvl4ntd
 ```
 
 We suggest using the following command to transfer from the faucet:
