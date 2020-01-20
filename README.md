@@ -76,7 +76,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | mintonium | - | - | - | + |  |
 | marssuper | - | - | - | + |  |
 | Nodeasy.com | - | - | - | + |  |
-| Northern Stake | - | - | - | + |  |
+| Northern Stake | - | - | - | + | + |
 | Mr. K | - | - | - | + | + |
 | novy | - | - | + | + |  |
 | POS Bakerz | - | - | - | + |  |
