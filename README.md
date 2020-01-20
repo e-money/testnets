@@ -78,7 +78,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Nodeasy.com | - | - | - | + |  |
 | Northern Stake | - | - | - | + | + |
 | Mr. K | - | - | - | + | + |
-| novy | - | - | + | + |  |
+| novy | - | - | + | + | + |
 | POS Bakerz | - | - | - | + |  |
 | retz80 | - | - | - | + | + |
 | Simply VC | - | - | + | + | + |
