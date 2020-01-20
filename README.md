@@ -56,35 +56,37 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Validator  | lilmermaid-1 | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 | lilmermaid-5 |
 |------------|---------------|--------------|--------------|--------------|--------------|
 | 01node | - | - | + | + |  |
-| ATEAM | - | - | + | + |  |
-| B-Harvest | - | - | + |  |  |
+| alexandruast | - | - | - | - | + |
+| ATEAM | - | - | + | + | + |
+| B-Harvest | - | - | + | - |  |
 | Bit Cat | - | - | + | + |  |
-| ChainLayer | - | - | + | + |  |
+| blockscape | - | - | - | - | + |
+| ChainLayer | - | - | + | + | + |
 | Cryptium Labs | - | - | - | + |  |
-| Cosmostation | - | - | + |  |  |
+| Cosmostation | - | - | + | - |  |
 | DCC Capital | - | - | - | + |  |
-| DokiaCapital | - | - | - | + |  |
+| DokiaCapital | - | - | - | + | + |
 | Easy2Stake | - | - | + | + |  |
-| Figment Networks | - | - | + |  |  |
+| Figment Networks | - | - | + | - |  |
 | Forbole | - | - | + | + |  |
-| Inotel | - | - | - | + |  |
+| Inotel | - | - | - | + | + |
 | IRISnet-Bianjie | - | - | - | + |  |
-| kytzu | - | - | - | + |  |
-| melea | - | - | - | + |  |
+| kytzu | - | - | - | + | + |
+| melea | - | - | - | + | + |
 | mintonium | - | - | - | + |  |
 | marssuper | - | - | - | + |  |
 | Nodeasy.com | - | - | - | + |  |
 | Northern Stake | - | - | - | + |  |
-| Mr. K | - | - | - | + |  |
+| Mr. K | - | - | - | + | + |
 | novy | - | - | + | + |  |
 | POS Bakerz | - | - | - | + |  |
-| retz80 | - | - | - | + |  |
-| Simply VC | - | - | + | + |  |
-| stake.zone | - | - | - | + |  |
+| retz80 | - | - | - | + | + |
+| Simply VC | - | - | + | + | + |
+| stake.zone | - | - | - | + | + |
 | Stake5 Labs | - | - | - | + |  |
-| stakewolf | - | - | - | + |  |
-| syncnode | - | - | - | + |  |
+| stakewolf | - | - | - | + | + |
+| syncnode | - | - | - | + | + |
 | UbikCapital | - | - | + | + |  |
 | validator.network | + | + | + | + | + |
-| witval | - | - | - | + |  |
-| WeStaking | - | - | - | + |  |
+| witval | - | - | - | + | + |
+| WeStaking | - | - | - | + | + |
