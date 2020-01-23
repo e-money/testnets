@@ -8,7 +8,7 @@ Help and assistance is available in our [validator hangout group](https://t.me/j
 
 Chain ID: lilmermaid-5  
 Genesis:  https://raw.githubusercontent.com/e-money/testnets/master/lilmermaid-5/genesis.json  
-Software: [v0.5.7](https://github.com/e-money/em-ledger/releases/tag/v0.5.7)  
+Software: [v0.5.8](https://github.com/e-money/em-ledger/releases/tag/v0.5.8)  
 Explorer: https://e-money.network *  
 
 \* The block explorer does not accurately display multiple denominations yet.
