@@ -74,7 +74,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Inotel | - | - | - | + | + H |
 | IRISnet-Bianjie | - | - | - | + | + |
 | kytzu | - | - | - | + | + H |
-| melea | - | - | - | + | + |
+| melea | - | - | - | + | + H |
 | mintonium | - | - | - | + | + |
 | marssuper | - | - | - | + | + |
 | Nodeasy.com | - | - | - | + | + |
