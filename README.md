@@ -55,27 +55,28 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 
 | Validator  | lilmermaid-1 | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 | lilmermaid-5 |
 |------------|---------------|--------------|--------------|--------------|--------------|
-| 01node | - | - | + | + |  |
+| 01node | - | - | + | + | + |
 | alexandruast | - | - | - | - | + |
 | ATEAM | - | - | + | + | + |
 | B-Harvest | - | - | + | - |  |
-| Bit Cat | - | - | + | + |  |
+| BasBlock | - | - | - | - | + |
+| Bit Cat | - | - | + | + | + |
 | blockscape | - | - | - | - | + |
 | ChainLayer | - | - | + | + | + |
-| Cryptium Labs | - | - | - | + |  |
+| Cryptium Labs | - | - | - | + | + |
 | Cosmostation | - | - | + | - |  |
-| DCC Capital | - | - | - | + |  |
+| DCC Capital | - | - | - | + | + |
 | DokiaCapital | - | - | - | + | + |
-| Easy2Stake | - | - | + | + |  |
-| Figment Networks | - | - | + | - |  |
-| Forbole | - | - | + | + |  |
+| Easy2Stake | - | - | + | + | + |
+| Figment Networks | - | - | + | - | + |
+| Forbole | - | - | + | + | + |
 | Inotel | - | - | - | + | + |
-| IRISnet-Bianjie | - | - | - | + |  |
+| IRISnet-Bianjie | - | - | - | + | + |
 | kytzu | - | - | - | + | + |
 | melea | - | - | - | + | + |
-| mintonium | - | - | - | + |  |
-| marssuper | - | - | - | + |  |
-| Nodeasy.com | - | - | - | + |  |
+| mintonium | - | - | - | + | + |
+| marssuper | - | - | - | + | + |
+| Nodeasy.com | - | - | - | + | + |
 | Northern Stake | - | - | - | + | + |
 | Mr. K | - | - | - | + | + |
 | novy | - | - | + | + | + |
@@ -83,10 +84,11 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | retz80 | - | - | - | + | + |
 | Simply VC | - | - | + | + | + |
 | stake.zone | - | - | - | + | + |
-| Stake5 Labs | - | - | - | + |  |
+| Stake5 Labs | - | - | - | + | + |
 | stakewolf | - | - | - | + | + |
 | syncnode | - | - | - | + | + |
-| UbikCapital | - | - | + | + |  |
+| UbikCapital | - | - | + | + | + |
 | validator.network | + | + | + | + | + |
 | witval | - | - | - | + | + |
 | WeStaking | - | - | - | + | + |
+| xt | - | - | - | - | + |
