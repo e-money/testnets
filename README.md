@@ -70,6 +70,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Easy2Stake | - | - | + | + | + |
 | Figment Networks | - | - | + | - | + |
 | Forbole | - | - | + | + | + |
+| InchainWorks | - | - | - | - | + H |
 | Inotel | - | - | - | + | + H |
 | IRISnet-Bianjie | - | - | - | + | + |
 | kytzu | - | - | - | + | + H |
