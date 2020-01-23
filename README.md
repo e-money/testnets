@@ -55,8 +55,8 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 
 | Validator  | lilmermaid-1 | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 | lilmermaid-5 |
 |------------|---------------|--------------|--------------|--------------|--------------|
-| 01node | - | - | + | + | + |
-| alexandruast | - | - | - | - | + |
+| 01node | - | - | + | + | + H |
+| alexandruast | - | - | - | - | + H |
 | ATEAM | - | - | + | + | + |
 | B-Harvest | - | - | + | - |  |
 | BasBlock | - | - | - | - | + |
@@ -66,13 +66,13 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Cryptium Labs | - | - | - | + | + |
 | Cosmostation | - | - | + | - |  |
 | DCC Capital | - | - | - | + | + |
-| DokiaCapital | - | - | - | + | + |
+| DokiaCapital | - | - | - | + | + H |
 | Easy2Stake | - | - | + | + | + |
 | Figment Networks | - | - | + | - | + |
 | Forbole | - | - | + | + | + |
-| Inotel | - | - | - | + | + |
+| Inotel | - | - | - | + | + H |
 | IRISnet-Bianjie | - | - | - | + | + |
-| kytzu | - | - | - | + | + |
+| kytzu | - | - | - | + | + H |
 | melea | - | - | - | + | + |
 | mintonium | - | - | - | + | + |
 | marssuper | - | - | - | + | + |
@@ -82,13 +82,13 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | novy | - | - | + | + | + |
 | POS Bakerz | - | - | - | + |  |
 | retz80 | - | - | - | + | + |
-| Simply VC | - | - | + | + | + |
+| Simply VC | - | - | + | + | + H |
 | stake.zone | - | - | - | + | + |
 | Stake5 Labs | - | - | - | + | + |
 | stakewolf | - | - | - | + | + |
 | syncnode | - | - | - | + | + |
 | UbikCapital | - | - | + | + | + |
-| validator.network | + | + | + | + | + |
+| validator.network | + | + | + | + | + H |
 | witval | - | - | - | + | + |
 | WeStaking | - | - | - | + | + |
 | xt | - | - | - | - | + |
