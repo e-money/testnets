@@ -39,13 +39,14 @@ emcli tx send faucet <your-validator> "500000000000ungm,500000000000eeur,5000000
 ```
 
 ## Rewards
+*NOTICE: The reward program has ended as of 24/01/2020 12:00 UTC as a strong validator set has formed. Rewards will only be paid out to those validators who joined before the deadline.*
 
 Validators who participated in the testnets will be rewarded for their support as follows:
 
 2000 NGM* for each testnet they participated in (lilmermaid-3 and later)  
 5000 NGM* bonus for joining mainnet within 24 hours  
 
-As the mainnet launch will be centralized, rewards can be paid out to validators on request and rewards can used to self-bond.
+As the mainnet launch will be centralized, rewards can be paid out to validators on request and rewards can used to self-bond. 
 
 \* Please note the NGM token is currently not tradeable, but will be sold during the [token presale](https://e-money.com/presale.html) for EUR 0.50. 
 
