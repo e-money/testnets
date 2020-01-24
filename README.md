@@ -62,7 +62,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | B-Harvest | - | - | + | - |  |
 | BasBlock | - | - | - | - | + |
 | Bit Cat | - | - | + | + | + H |
-| blockscape | - | - | - | - | + |
+| blockscape | - | - | - | - | + H |
 | ChainLayer | - | - | + | + | + |
 | Cryptium Labs | - | - | - | + | + |
 | Cosmostation | - | - | + | - |  |
