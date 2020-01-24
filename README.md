@@ -75,7 +75,7 @@ The following participants are eligible for rewards:
 | IW | - | - | - | - | + H |
 | kytzu | - | - | - | + | + H |
 | melea | - | - | - | + | + H |
-| mintonium | - | - | - | + | + |
+| mintonium | - | - | - | + | + H |
 | marssuper | - | - | - | + | + |
 | Nodeasy.com | - | - | - | + | + |
 | Northern Stake | - | - | - | + | + |
