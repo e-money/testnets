@@ -67,12 +67,13 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Cosmostation | - | - | + | - |  |
 | DCC Capital | - | - | - | + | + |
 | DokiaCapital | - | - | - | + | + H |
-| Easy2Stake | - | - | + | + | + |
+| Easy2Stake | - | - | + | + | + H |
 | Figment Networks | - | - | + | - | + |
 | Forbole | - | - | + | + | + H |
 | InchainWorks | - | - | - | - | + H |
 | Inotel | - | - | - | + | + H |
 | IRISnet-Bianjie | - | - | - | + | + |
+| IW | - | - | - | - | + H |
 | kytzu | - | - | - | + | + H |
 | melea | - | - | - | + | + H |
 | mintonium | - | - | - | + | + |
