@@ -60,7 +60,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | ATEAM | - | - | + | + | + |
 | B-Harvest | - | - | + | - |  |
 | BasBlock | - | - | - | - | + |
-| Bit Cat | - | - | + | + | + |
+| Bit Cat | - | - | + | + | + H |
 | blockscape | - | - | - | - | + |
 | ChainLayer | - | - | + | + | + |
 | Cryptium Labs | - | - | - | + | + |
@@ -87,9 +87,9 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | stake.zone | - | - | - | + | + |
 | Stake5 Labs | - | - | - | + | + |
 | stakewolf | - | - | - | + | + H |
-| syncnode | - | - | - | + | + |
+| syncnode | - | - | - | + | + H |
 | UbikCapital | - | - | + | + | + |
 | validator.network | + | + | + | + | + H |
 | witval | - | - | - | + | + |
-| WeStaking | - | - | - | + | + |
+| WeStaking | - | - | - | + | + H |
 | xt | - | - | - | - | + |
