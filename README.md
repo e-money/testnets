@@ -90,6 +90,6 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | syncnode | - | - | - | + | + H |
 | UbikCapital | - | - | + | + | + H |
 | validator.network | + | + | + | + | + H |
-| witval | - | - | - | + | + |
+| witval | - | - | - | + | + H |
 | WeStaking | - | - | - | + | + H |
 | xt | - | - | - | - | + |
