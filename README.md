@@ -69,7 +69,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | DokiaCapital | - | - | - | + | + H |
 | Easy2Stake | - | - | + | + | + |
 | Figment Networks | - | - | + | - | + |
-| Forbole | - | - | + | + | + |
+| Forbole | - | - | + | + | + H |
 | InchainWorks | - | - | - | - | + H |
 | Inotel | - | - | - | + | + H |
 | IRISnet-Bianjie | - | - | - | + | + |
@@ -88,7 +88,7 @@ Please contact @mdyring in the [validator hangout group](https://t.me/joinchat/H
 | Stake5 Labs | - | - | - | + | + |
 | stakewolf | - | - | - | + | + H |
 | syncnode | - | - | - | + | + H |
-| UbikCapital | - | - | + | + | + |
+| UbikCapital | - | - | + | + | + H |
 | validator.network | + | + | + | + | + H |
 | witval | - | - | - | + | + |
 | WeStaking | - | - | - | + | + H |
