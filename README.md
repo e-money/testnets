@@ -56,7 +56,7 @@ The following participants are eligible for rewards:
 |------------|---------------|--------------|--------------|--------------|--------------|
 | 01node | - | - | + | + | + H |
 | alexandruast | - | - | - | - | + H |
-| ATEAM | - | - | + | + | + |
+| ATEAM | - | - | + | + | + H |
 | B-Harvest | - | - | + | - |  |
 | BasBlock | - | - | - | - | + H |
 | Bit Cat | - | - | + | + | + H |
