@@ -61,7 +61,7 @@ The following participants are eligible for rewards:
 | BasBlock | - | - | - | - | + H |
 | Bit Cat | - | - | + | + | + H |
 | blockscape | - | - | - | - | + H |
-| ChainLayer | - | - | + | + | + |
+| ChainLayer | - | - | + | + | + H |
 | Cryptium Labs | - | - | - | + | + |
 | Cosmostation | - | - | + | - |  |
 | DCC Capital | - | - | - | + | + |
