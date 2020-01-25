@@ -58,7 +58,7 @@ The following participants are eligible for rewards:
 | alexandruast | - | - | - | - | + H |
 | ATEAM | - | - | + | + | + |
 | B-Harvest | - | - | + | - |  |
-| BasBlock | - | - | - | - | + |
+| BasBlock | - | - | - | - | + H |
 | Bit Cat | - | - | + | + | + H |
 | blockscape | - | - | - | - | + H |
 | ChainLayer | - | - | + | + | + |
