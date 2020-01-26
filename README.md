@@ -80,7 +80,7 @@ The following participants are eligible for rewards:
 | Nodeasy.com | - | - | - | + | + |
 | Northern Stake | - | - | - | + | + |
 | Mr. K | - | - | - | + | + |
-| novy | - | - | + | + | + |
+| novy | - | - | + | + | + H |
 | POS Bakerz | - | - | - | + |  |
 | retz80 | - | - | - | + | + |
 | Simply VC | - | - | + | + | + H |
