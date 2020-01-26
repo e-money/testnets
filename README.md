@@ -79,7 +79,7 @@ The following participants are eligible for rewards:
 | marssuper | - | - | - | + | + |
 | Nodeasy.com | - | - | - | + | + |
 | Northern Stake | - | - | - | + | + |
-| Mr. K | - | - | - | + | + |
+| Mr. K | - | - | - | + | + H |
 | novy | - | - | + | + | + H |
 | POS Bakerz | - | - | - | + |  |
 | retz80 | - | - | - | + | + |
