@@ -62,12 +62,12 @@ The following participants are eligible for rewards:
 | Bit Cat | - | - | + | + | + H |
 | blockscape | - | - | - | - | + H |
 | ChainLayer | - | - | + | + | + H |
-| Cryptium Labs | - | - | - | + | + |
+| Cryptium Labs | - | - | - | + | + H |
 | Cosmostation | - | - | + | - |  |
 | DCC Capital | - | - | - | + | + |
 | DokiaCapital | - | - | - | + | + H |
 | Easy2Stake | - | - | + | + | + H |
-| Figment Networks | - | - | + | - | + |
+| Figment Networks | - | - | + | - | + H |
 | Forbole | - | - | + | + | + H |
 | InchainWorks | - | - | - | - | + H |
 | Inotel | - | - | - | + | + H |
