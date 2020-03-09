@@ -57,7 +57,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | ATEAM | + | + | + | 6000 | |
 | B-Harvest | + | - | + | 4000 | |
 | BasBlock | - | - | + | 2000 | |
-| Bit Cat | + | + | + | 6000 | |
+| Bit Cat | + | + | + | 6000 | | emoney1qk3a2lpm5mskwnpsjm25qzs9urqhwclmuqkejs |
 | blockscape | - | - | + | 2000 | emoney1lyy7q6lt5gyt43sxms4tt9smcnrqy2j0nxt3wf |
 | ChainLayer | + | + | + | 6000 | |
 | Cryptium Labs | - | + | + | 4000 | |
