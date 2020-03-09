@@ -79,7 +79,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | Northern Stake | - | + | + | 4000 | |
 | Mr. K | - | + | + | 4000 | |
 | novy | + | + | + | 6000 | emoney1q2kc675fw536jq74f6ekwae2pr5pksue22sn3a |
-| POS Bakerz | - | + | + | 4000 | |
+| POS Bakerz | - | + | + | 4000 | emoney1tw0qj9nuqx8nhn9d0zup64navtc0c4hdh9kxst |
 | retz80 | - | + | + | 4000 | |
 | Simply VC | + | + | + | 6000 | |
 | stake.zone | - | + | + | 4000 | |
