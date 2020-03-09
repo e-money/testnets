@@ -8,10 +8,8 @@ Help and assistance is available in our [validator hangout group](https://t.me/j
 
 Chain ID: lilmermaid-5  
 Genesis:  https://raw.githubusercontent.com/e-money/testnets/master/lilmermaid-5/genesis.json  
-Software: [v0.5.8](https://github.com/e-money/em-ledger/releases/tag/v0.5.8)  
-Explorer: https://e-money.network *  
-
-\* The block explorer does not accurately display multiple denominations yet.
+Software: [v0.5.12](https://github.com/e-money/em-ledger/releases/tag/v0.5.12)  
+Explorer: https://e-money.network  
 
 ## Seed Nodes
 
@@ -46,50 +44,51 @@ Validators who participated in the testnets will be rewarded for their support a
 2000 NGM* for each testnet they participated in (lilmermaid-3 and later)  
 5000 NGM* bonus for joining mainnet within 24 hours  
 
-As the mainnet launch will be centralized, rewards can be paid out to validators on request and rewards can used to self-bond. 
+Participation rewards will be paid out to validators in the genesis block. Please create a pull request to add your address below.
+The bonus will be paid out to the same address upon joining the mainnet within 24 hours.  
 
 \* Please note the NGM token is currently not tradeable, but will be sold during the [token presale](https://e-money.com/presale.html) for EUR 0.50. 
 
 The following participants are eligible for rewards:
 
-| Validator  | lilmermaid-1 | lilmermaid-2 | lilmermaid-3 | lilmermaid-4 | lilmermaid-5 |
-|------------|---------------|--------------|--------------|--------------|--------------|
-| 01node | - | - | + | + | + H |
-| alexandruast | - | - | - | - | + H |
-| ATEAM | - | - | + | + | + H |
-| B-Harvest | - | - | + | - |  |
-| BasBlock | - | - | - | - | + H |
-| Bit Cat | - | - | + | + | + H |
-| blockscape | - | - | - | - | + H |
-| ChainLayer | - | - | + | + | + H |
-| Cryptium Labs | - | - | - | + | + H |
-| Cosmostation | - | - | + | - |  |
-| DCC Capital | - | - | - | + | + |
-| DokiaCapital | - | - | - | + | + H |
-| Easy2Stake | - | - | + | + | + H |
-| Figment Networks | - | - | + | - | + H |
-| Forbole | - | - | + | + | + H |
-| InchainWorks | - | - | - | - | + H |
-| Inotel | - | - | - | + | + H |
-| IRISnet-Bianjie | - | - | - | + | + |
-| IW | - | - | - | - | + H |
-| kytzu | - | - | - | + | + H |
-| melea | - | - | - | + | + H |
-| mintonium | - | - | - | + | + H |
-| marssuper | - | - | - | + | + |
-| Nodeasy.com | - | - | - | + | + |
-| Northern Stake | - | - | - | + | + H |
-| Mr. K | - | - | - | + | + H |
-| novy | - | - | + | + | + H |
-| POS Bakerz | - | - | - | + |  |
-| retz80 | - | - | - | + | + |
-| Simply VC | - | - | + | + | + H |
-| stake.zone | - | - | - | + | + |
-| Stake5 Labs | - | - | - | + | + |
-| stakewolf | - | - | - | + | + H |
-| syncnode | - | - | - | + | + H |
-| UbikCapital | - | - | + | + | + H |
-| validator.network | + | + | + | + | + H |
-| witval | - | - | - | + | + H |
-| WeStaking | - | - | - | + | + H |
-| xt | - | - | - | - | + |
+| Validator  | lilmermaid-3 | lilmermaid-4 | lilmermaid-5 | Rewards (NGM) | Address |
+|------------|---------------|--------------|--------------|---------------|---------|
+| 01node | + | + | + | 6000 | |
+| alexandruast | - | - | + | 2000 | |
+| ATEAM | + | + | + | 6000 | |
+| B-Harvest | + | - | + | 4000 | |
+| BasBlock | - | - | + | 2000 | |
+| Bit Cat | + | + | + | 6000 | |
+| blockscape | - | - | + | 2000 | |
+| ChainLayer | + | + | + | 6000 | |
+| Cryptium Labs | - | + | + | 4000 | |
+| Cosmostation | + | - |  | 2000 | |
+| DCC Capital | - | + | + | 4000 | |
+| DokiaCapital | - | + | + | 4000 | |
+| Easy2Stake | + | + | + | 6000 | |
+| Figment Networks | + | - | + | 4000 | |
+| Forbole | + | + | + | 6000 | |
+| InchainWorks | - | - | + | 2000 | |
+| Inotel | - | + | + | 4000 | |
+| IRISnet-Bianjie | - | + | + | 4000 | |
+| IW | - | - | + | 2000 | |
+| kytzu | - | + | + | 4000 | |
+| melea | - | + | + | 4000 | |
+| mintonium | - | + | + | 4000 | |
+| marssuper | - | + | + | 4000 | |
+| Nodeasy.com | - | + | + | 4000 | |
+| Northern Stake | - | + | + | 4000 | |
+| Mr. K | - | + | + | 4000 | |
+| novy | + | + | + | 6000 | |
+| POS Bakerz | - | + |  | 2000 | |
+| retz80 | - | + | + | 4000 | |
+| Simply VC | + | + | + | 6000 | |
+| stake.zone | - | + | + | 4000 | |
+| Stake5 Labs | - | + | + | 4000 | |
+| stakewolf | - | + | + | 4000 | |
+| syncnode | - | + | + | 4000 | |
+| UbikCapital | + | + | + | 6000 | |
+| validator.network | + | + | + | 6000 | |
+| witval | - | + | + | 4000 | |
+| WeStaking | - | + | + | 4000 | |
+| xt | - | - | + | 2000 | |
