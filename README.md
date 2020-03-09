@@ -63,7 +63,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | Cryptium Labs | - | + | + | 4000 | |
 | Cosmostation | + | - |  | 2000 | |
 | DCC Capital | - | + | + | 4000 | |
-| DokiaCapital | - | + | + | 4000 | |
+| DokiaCapital | - | + | + | 4000 | emoney1z89utvygweg5l56fsk8ak7t6hh88fd0amftwj4 |
 | Easy2Stake | + | + | + | 6000 | |
 | Figment Networks | + | - | + | 4000 | |
 | Forbole | + | + | + | 6000 | |
