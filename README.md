@@ -72,7 +72,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | IRISnet-Bianjie | - | + | + | 4000 | |
 | IW | - | - | + | 2000 | |
 | kytzu | - | + | + | 4000 | emoney1wtv0kp6ydt03edd8kyr5arr4f3yc52vpmty82j |
-| melea | - | + | + | 4000 | |
+| melea | - | + | + | 4000 | emoney1cu84axdsggf2w3s4pgfg406p0ex9hp682gehrz |
 | mintonium | - | + | + | 4000 | |
 | marssuper | - | + | + | 4000 | |
 | Nodeasy.com | - | + | + | 4000 | |
