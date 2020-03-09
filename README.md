@@ -44,12 +44,11 @@ Validators who participated in the testnets will be rewarded for their support a
 2000 NGM* for each testnet they participated in (lilmermaid-3 and later)  
 5000 NGM* bonus for joining mainnet within 24 hours  
 
-Participation rewards will be paid out to validators in the genesis block. Please create a pull request to add your address below.
-The bonus will be paid out to the same address upon joining the mainnet within 24 hours.  
+Participation rewards will be paid out to validators in the genesis block. The bonus will be paid out to the same address upon joining the mainnet within 24 hours.  
 
 \* Please note the NGM token is currently not tradeable, but will be sold during the [token presale](https://e-money.com/presale.html) for EUR 0.50. 
 
-The following participants are eligible for rewards:
+**Please create a pull request to add your address below.** The below participants are eligible for rewards:
 
 | Validator  | lilmermaid-3 | lilmermaid-4 | lilmermaid-5 | Rewards (NGM) | Address |
 |------------|---------------|--------------|--------------|---------------|---------|
