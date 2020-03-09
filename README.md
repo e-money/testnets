@@ -71,7 +71,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | Inotel | - | + | + | 4000 | |
 | IRISnet-Bianjie | - | + | + | 4000 | |
 | IW | - | - | + | 2000 | |
-| kytzu | - | + | + | 4000 | |
+| kytzu | - | + | + | 4000 | emoney1wtv0kp6ydt03edd8kyr5arr4f3yc52vpmty82j |
 | melea | - | + | + | 4000 | |
 | mintonium | - | + | + | 4000 | |
 | marssuper | - | + | + | 4000 | |
