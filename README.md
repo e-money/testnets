@@ -88,7 +88,7 @@ The following participants are eligible for rewards:
 | stakewolf | - | + | + | 4000 | |
 | syncnode | - | + | + | 4000 | |
 | UbikCapital | + | + | + | 6000 | |
-| validator.network | + | + | + | 6000 | |
+| validator.network | + | + | + | 6000 | emoney1sxx9mszve0gaedz5ld7qdkjkfv8z992avdth5f |
 | witval | - | + | + | 4000 | |
 | WeStaking | - | + | + | 4000 | |
 | xt | - | - | + | 2000 | |
