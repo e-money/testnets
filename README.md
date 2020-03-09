@@ -84,7 +84,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | Simply VC | + | + | + | 6000 | |
 | stake.zone | - | + | + | 4000 | |
 | Stake5 Labs | - | + | + | 4000 | |
-| stakewolf | - | + | + | 4000 | |
+| stakewolf | - | + | + | 4000 |emoney1waqn2psrhs4vz5gz9p77hv9cxw3xcccffyph02 |
 | syncnode | - | + | + | 4000 | |
 | UbikCapital | + | + | + | 6000 | |
 | validator.network | + | + | + | 6000 | emoney1sxx9mszve0gaedz5ld7qdkjkfv8z992avdth5f |
