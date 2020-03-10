@@ -66,7 +66,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | DokiaCapital | - | + | + | 4000 | emoney1z89utvygweg5l56fsk8ak7t6hh88fd0amftwj4 |
 | Easy2Stake | + | + | + | 6000 | |
 | Figment Networks | + | - | + | 4000 | |
-| Forbole | + | + | + | 6000 | |
+| Forbole | + | + | + | 6000 | emoney1293pqwtzu67zp8txuya4yts03ccw5kgfz83kmf |
 | InchainWorks | - | - | + | 2000 | |
 | Inotel | - | + | + | 4000 | emoney17wcggpjx007uc09s8y4hwrj8f228mlweu9p4qf |
 | IRISnet-Bianjie | - | + | + | 4000 | |
