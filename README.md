@@ -64,7 +64,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | Cosmostation | + | - |  | 2000 | |
 | DCC Capital | - | + | + | 4000 | emoney1q4k07zr7504f2tcdfpl4xmawlgq6yz4mzwhq7v |
 | DokiaCapital | - | + | + | 4000 | emoney1z89utvygweg5l56fsk8ak7t6hh88fd0amftwj4 |
-| Easy2Stake | + | + | + | 6000 | |
+| Easy2Stake | + | + | + | 6000 | | emoney1qjy6hpc65mp6yc7hf234y3sf0rtmumnt3dx44p
 | Figment Networks | + | - | + | 4000 | |
 | Forbole | + | + | + | 6000 | emoney1293pqwtzu67zp8txuya4yts03ccw5kgfz83kmf |
 | InchainWorks | - | - | + | 2000 | |
