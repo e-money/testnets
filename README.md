@@ -75,7 +75,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | melea | - | + | + | 4000 | emoney1cu84axdsggf2w3s4pgfg406p0ex9hp682gehrz |
 | mintonium | - | + | + | 4000 | |
 | marssuper | - | + | + | 4000 | emoney1j40h49qch2kcx28pc892hmyl930skzzxlw75ax |
-| Nodeasy.com | - | + | + | 4000 | |
+| Nodeasy.com | - | + | + | 4000 | emoney159uhuzucvmtftdappd4smuks4v7s0dpmcednm2 |
 | Northern Stake | - | + | + | 4000 | |
 | Mr. K | - | + | + | 4000 | |
 | novy | + | + | + | 6000 | emoney1q2kc675fw536jq74f6ekwae2pr5pksue22sn3a |
