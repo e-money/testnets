@@ -81,7 +81,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | novy | + | + | + | 6000 | emoney1q2kc675fw536jq74f6ekwae2pr5pksue22sn3a |
 | POS Bakerz | - | + | + | 4000 | emoney1tw0qj9nuqx8nhn9d0zup64navtc0c4hdh9kxst |
 | retz80 | - | + | + | 4000 | emoney1ygm45zwa7y6smay587rws60wptuauycmc0gf8r |
-| Simply VC | + | + | + | 6000 | |
+| Simply VC | + | + | + | 6000 | emoney1sz7rp920hgupfl0p6c7kwkaes8q8tx3luz3va4 |
 | stake.zone | - | + | + | 4000 | |
 | Stake5 Labs | - | + | + | 4000 |emoney1d6q0xxdugldf85xhkjtw4q7tc5v46ff3ytezyu |
 | stakewolf | - | + | + | 4000 |emoney1waqn2psrhs4vz5gz9p77hv9cxw3xcccffyph02 |
