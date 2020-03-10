@@ -77,7 +77,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | marssuper | - | + | + | 4000 | emoney1j40h49qch2kcx28pc892hmyl930skzzxlw75ax |
 | Nodeasy.com | - | + | + | 4000 | |
 | Northern Stake | - | + | + | 4000 | |
-| Mr. K | - | + | + | 4000 | |
+| Mr. K | - | + | + | 4000 | emoney1cv4leeaavx5lu5n7jgrdklt76rgx2xtdw5df95 |
 | novy | + | + | + | 6000 | emoney1q2kc675fw536jq74f6ekwae2pr5pksue22sn3a |
 | POS Bakerz | - | + | + | 4000 | emoney1tw0qj9nuqx8nhn9d0zup64navtc0c4hdh9kxst |
 | retz80 | - | + | + | 4000 | |
