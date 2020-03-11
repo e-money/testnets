@@ -88,6 +88,6 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | syncnode | - | + | + | 4000 | emoney1s3x3wy58ssrjf7097406alryeejfamhrtgd0q5 |
 | UbikCapital | + | + | + | 6000 | |
 | validator.network | + | + | + | 6000 | emoney1sxx9mszve0gaedz5ld7qdkjkfv8z992avdth5f |
-| witval | - | + | + | 4000 | |
+| witval | - | + | + | 4000 | emoney10nc3y5xp93txarcxcqdrsvh9ta297v7xkzs4yy |
 | WeStaking | - | + | + | 4000 | emoney1ptyzewnns2kn37ewtmv6ppsvhdnmeapvp7kyl6 |
 | xt | - | - | + | 2000 | |
