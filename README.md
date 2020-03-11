@@ -54,7 +54,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 |------------|---------------|--------------|--------------|---------------|---------|
 | 01node | + | + | + | 6000 | emoney1s34xgst5slleg22ey8gwnfd4yf977xrs3h5qej | 
 | alexandruast | - | - | + | 2000 | emoney1ualhu3fjgg77g485gmyswkq3w0dp7gysshv0cz |
-| ATEAM | + | + | + | 6000 | |
+| ATEAM | + | + | + | 6000 | emoney1edxhamqghv5naa6gjtar5jgxg6ly2rt4qfhf4x |
 | B-Harvest | + | - | + | 4000 | emoney1zgv6tqess9q6y4cj28ldpjllrqlyzqqhq004k3 |
 | BasBlock | - | - | + | 2000 | emoney17v5v5nwqs9677u92us0qdare549tj7gn7pv78d |
 | Bit Cat | + | + | + | 6000 | emoney1qk3a2lpm5mskwnpsjm25qzs9urqhwclmuqkejs |
