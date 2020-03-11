@@ -73,7 +73,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | IW | - | - | + | 2000 | |
 | kytzu | - | + | + | 4000 | emoney1wtv0kp6ydt03edd8kyr5arr4f3yc52vpmty82j |
 | melea | - | + | + | 4000 | emoney1cu84axdsggf2w3s4pgfg406p0ex9hp682gehrz |
-| mintonium | - | + | + | 4000 | |
+| mintonium | - | + | + | 4000 |emoney1eq55wawvpv044z68tm456mdh8jgvlt32kftlzc |
 | marssuper | - | + | + | 4000 | emoney1j40h49qch2kcx28pc892hmyl930skzzxlw75ax |
 | Nodeasy.com | - | + | + | 4000 | emoney159uhuzucvmtftdappd4smuks4v7s0dpmcednm2 |
 | Northern Stake | - | + | + | 4000 | |
