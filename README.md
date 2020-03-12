@@ -69,7 +69,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | Forbole | + | + | + | 6000 | emoney1293pqwtzu67zp8txuya4yts03ccw5kgfz83kmf |
 | InchainWorks | - | - | + | 2000 | |
 | Inotel | - | + | + | 4000 | emoney17wcggpjx007uc09s8y4hwrj8f228mlweu9p4qf |
-| IRISnet-Bianjie | - | + | + | 4000 | |
+| IRISnet-Bianjie | - | + | + | 4000 | emoney1uxcakn6sq80p5hpmkft4p9030hyznsuyprlntd |
 | IW | - | - | + | 2000 | |
 | kytzu | - | + | + | 4000 | emoney1wtv0kp6ydt03edd8kyr5arr4f3yc52vpmty82j |
 | melea | - | + | + | 4000 | emoney1cu84axdsggf2w3s4pgfg406p0ex9hp682gehrz |
