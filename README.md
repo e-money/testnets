@@ -61,7 +61,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | blockscape | - | - | + | 2000 | emoney1lyy7q6lt5gyt43sxms4tt9smcnrqy2j0nxt3wf |
 | ChainLayer | + | + | + | 6000 | emoney1kgddca7qj96z0qcxr2c45z73cfl0c75p57l33h |
 | Cryptium Labs | - | + | + | 4000 | |
-| Cosmostation | + | - |  | 2000 | |
+| Cosmostation | + | - |  | 2000 | emoney140g8fnnl46mlvfhygj3zvjqlku6x0fwuylucan |
 | DCC Capital | - | + | + | 4000 | emoney1q4k07zr7504f2tcdfpl4xmawlgq6yz4mzwhq7v |
 | DokiaCapital | - | + | + | 4000 | emoney1z89utvygweg5l56fsk8ak7t6hh88fd0amftwj4 |
 | Easy2Stake | + | + | + | 6000 | emoney1qjy6hpc65mp6yc7hf234y3sf0rtmumnt3dx44p | 
