@@ -70,7 +70,7 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | InchainWorks | - | - | + | 2000 | emoney189e8s3ng6qeug5gknqvr5m86y8xc0d24exg65t |
 | Inotel | - | + | + | 4000 | emoney17wcggpjx007uc09s8y4hwrj8f228mlweu9p4qf |
 | IRISnet-Bianjie | - | + | + | 4000 | emoney1uxcakn6sq80p5hpmkft4p9030hyznsuyprlntd |
-| IW | - | - | + | 2000 | |
+| IW | - | - | + | 2000 | emoney1z4nc3htz887eemfqmta5a5q8g2glf9qsrrpedu |
 | kytzu | - | + | + | 4000 | emoney1wtv0kp6ydt03edd8kyr5arr4f3yc52vpmty82j |
 | melea | - | + | + | 4000 | emoney1cu84axdsggf2w3s4pgfg406p0ex9hp682gehrz |
 | mintonium | - | + | + | 4000 |emoney1eq55wawvpv044z68tm456mdh8jgvlt32kftlzc |
