@@ -61,17 +61,17 @@ Participation rewards will be paid out to validators in the genesis block. The b
 | Bit Cat | + | + | + | 6000 | emoney1qk3a2lpm5mskwnpsjm25qzs9urqhwclmuqkejs |
 | blockscape | - | - | + | 2000 | emoney1lyy7q6lt5gyt43sxms4tt9smcnrqy2j0nxt3wf |
 | ChainLayer | + | + | + | 6000 | emoney1kgddca7qj96z0qcxr2c45z73cfl0c75p57l33h |
-| Cryptium Labs | - | + | + | 4000 | |
+| Cryptium Labs | - | + | + | 4000 | emoney1kx4ptpctvqsyaeqnlsh8uefc5ewwam9h894r98 |
 | Cosmostation | + | - |  | 2000 | emoney140g8fnnl46mlvfhygj3zvjqlku6x0fwuylucan |
 | DCC Capital | - | + | + | 4000 | emoney1q4k07zr7504f2tcdfpl4xmawlgq6yz4mzwhq7v |
 | DokiaCapital | - | + | + | 4000 | emoney1z89utvygweg5l56fsk8ak7t6hh88fd0amftwj4 |
 | Easy2Stake | + | + | + | 6000 | emoney1qjy6hpc65mp6yc7hf234y3sf0rtmumnt3dx44p | 
 | Figment Networks | + | - | + | 4000 | emoney1m5ymqqnem9tzdzul0xrpkw3d82kncyzdf7c76j |
 | Forbole | + | + | + | 6000 | emoney1293pqwtzu67zp8txuya4yts03ccw5kgfz83kmf |
-| InchainWorks | - | - | + | 2000 | |
+| InchainWorks | - | - | + | 2000 | emoney189e8s3ng6qeug5gknqvr5m86y8xc0d24exg65t |
 | Inotel | - | + | + | 4000 | emoney17wcggpjx007uc09s8y4hwrj8f228mlweu9p4qf |
 | IRISnet-Bianjie | - | + | + | 4000 | emoney1uxcakn6sq80p5hpmkft4p9030hyznsuyprlntd |
-| IW | - | - | + | 2000 | |
+| IW | - | - | + | 2000 | emoney1z4nc3htz887eemfqmta5a5q8g2glf9qsrrpedu |
 | kytzu | - | + | + | 4000 | emoney1wtv0kp6ydt03edd8kyr5arr4f3yc52vpmty82j |
 | melea | - | + | + | 4000 | emoney1cu84axdsggf2w3s4pgfg406p0ex9hp682gehrz |
 | mintonium | - | + | + | 4000 |emoney1eq55wawvpv044z68tm456mdh8jgvlt32kftlzc |
