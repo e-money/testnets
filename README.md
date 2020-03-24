@@ -9,7 +9,8 @@ Help and assistance is available in our [validator hangout group](https://t.me/j
 Chain ID: lilmermaid-5  
 Genesis:  https://raw.githubusercontent.com/e-money/testnets/master/lilmermaid-5/genesis.json  
 Software: [v0.5.12](https://github.com/e-money/em-ledger/releases/tag/v0.5.12)  
-Explorer: https://e-money.network  
+Token API: https://beta-api.e-money.com/v1/tokens.json  
+Explorer: https://beta.e-money.network  
 
 ## Seed Nodes
 
