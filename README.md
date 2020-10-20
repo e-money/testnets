@@ -34,5 +34,5 @@ Address:  emoney1j7sq6dadld46vruk92r0se0tv0f3uc4pvl4ntd
 
 We suggest using the following command to transfer from the faucet:
 ```
-emcli tx send faucet <your-validator> "500000000000ungm" --gas-prices "1.0ungm"
+emcli tx send faucet <your-validator> "500000000ungm" --gas-prices "1.0ungm"
 ```
