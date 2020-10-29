@@ -6,9 +6,9 @@ Help and assistance is available in our [validator hangout group](https://t.me/j
 
 ## Latest Test Network
 
-Chain ID: lilmermaid-6  
-Genesis:  https://raw.githubusercontent.com/e-money/testnets/master/lilmermaid-6/genesis.json  
-Software: [v0.7.0-rc4](https://github.com/e-money/em-ledger/releases/tag/v0.7.0-rc4)  
+Chain ID: lilmermaid-7  
+Genesis:  https://raw.githubusercontent.com/e-money/testnets/master/lilmermaid-7/genesis.json  
+Software: [v0.8.0](https://github.com/e-money/em-ledger/releases/tag/v0.8.0)  
 Token API: https://beta-api.e-money.com/v1/tokens.json  
 Explorer: https://beta.e-money.network  
 
