@@ -15,7 +15,7 @@ Explorer: https://beta.e-money.network
 ## Seed Nodes
 
 ```
-e2bef7a7adc5f0a2a471120a5fa92e94ef3fd62c@52.57.194.94:26656  
+e2bef7a7adc5f0a2a471120a5fa92e94ef3fd62c@52.59.214.14:26656  
 ```
 
 ## Faucet
